@@ -27,6 +27,6 @@ export class FilterPipe implements PipeTransform {
 			output = output.filter(item => Object.values(item).join(' ').toUpperCase().indexOf(masterFilter) !== -1);
 		}
        
-       	return output;
+       		return output;
 	}
 } 
