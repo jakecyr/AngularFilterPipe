@@ -1,4 +1,4 @@
-# AngularFilterPipe
+# Angular Filter Pipe
 Simple Angular filter pipe that can be used like the "filter" pipe from AngularJS.
 
 ## Installation
